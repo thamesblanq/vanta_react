@@ -8,7 +8,7 @@ const Content = () => {
   return (
     <main className="w-full">
         <div className="h-[80%] p-2 w-full pt-48 py-4 px-4">
-            <h1 className="text-7xl font-bold font-poppins w-1/2 md:w-4/5">Animation Examples</h1>
+            <h1 className="md:text-7xl text-5xl font-bold font-poppins w-1/2 md:w-4/5">Animation Examples</h1>
             <p className="md:w-4/5 font-semibold text-xl pt-4 font-preahvihear">This site was made by <code>Eric</code>, that is also me. All examples were created to test my knowledge on animations.... I really hope I can complete this site.</p>
             <p className="md:w-4/5 font-semibold text-xl pt-4 pb-4 font-preahvihear">Thanks for visiting <span className='text-3xl font-bold text-purple-700'>^_^</span></p>
             <p className='md:w-4/5 font-semibold text-xl pt-4 pb-4 font-preahvihear'><em className='text-red-600'>Caution:</em> This site is going to be slow if your device computational abilities are low... I mean if you do not have a very fast chipset, RAM, memory or your GPU is low.. It made my device hang so bad...I will probably get a new one when I am rich... Well VantaJS site said not to use more than one for a site and I went ahead and used four(4)!!! Oh my 4!!</p>
