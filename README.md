@@ -1,0 +1,3 @@
+Website animated background using VantaJS ReactJS, TailwindCSS etc...
+
+To access this site your device must have high computational specifications so that the site won't be sluggish
